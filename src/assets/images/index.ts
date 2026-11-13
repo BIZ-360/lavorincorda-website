@@ -1,0 +1,12 @@
+export { default as imgFacadePulizia } from "./facade_pulizia_1782129759644.jpg";
+export { default as imgCopertiManutenzione } from "./coperti_manutenzione_1782129773847.jpg";
+export { default as imgSistemiAccesso } from "./sistemi_accesso_1782129788778.jpg";
+export { default as imgCityOverlook } from "./city_overlook_1782129831789.jpg";
+export { default as imgRestauoFune } from "./restauro_fune_1782129803225.jpg";
+export { default as imgSpazioConfinato } from "./spazio_confinato_1782129817789.jpg";
+export { default as imgDroneWashing } from "./drone_washing_1782127139934.jpg";
+export { default as imgHeroRopeAccessSunset } from "./hero_rope_access_sunset_1782134600891.jpg";
+export { default as imgRopeGeoradar } from "./rope_georadar_1782127156444.jpg";
+export { default as imgRopeRigger } from "./rope_rigger_1782127171843.jpg";
+export { default as imgHeroTower } from "./hero-tower.png";
+export { default as imgHeroFacade } from "./hero-facade.jpg";

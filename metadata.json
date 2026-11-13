@@ -1,0 +1,6 @@
+{
+  "name": "Lavorincorda",
+  "description": "Enterprise-grade industrial rope access, structural rigging, and acrobat building maintenance services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
